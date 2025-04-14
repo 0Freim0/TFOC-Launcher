@@ -2,21 +2,27 @@
   "news": [
     {
       "date": "2025-04-14",
-      "en": "Launcher version 2.3 released — news block added!",
-      "ru": "Вышла версия лаунчера 2.3 — добавлен блок новостей!",
-      "ua": "Вийшла версія лаунчера 2.3 — додано блок новин!"
+      "en": "Version 2.2! Added a news block! Also, the Launcher is getting ready for the (Update) feature and the return of FOV customization.",
+      "ru": "Версия 2.2! Добавили блок новостей! Также, лаунчер готовится к функции (Обновление) и возвращению настройки FOV.",
+      "ua": "Версія 2.2! Додали блок новин! Також, лаунчер готується до функції (Оновлення) та повернення налаштування FOV."
     },
     {
-      "date": "2025-04-10",
-      "en": "Mod support for new maps added.",
-      "ru": "Добавлена поддержка модов для новых карт.",
-      "ua": "Додана підтримка модів для нових карт."
+      "date": "2025-04-11",
+      "en": "Launcher version 2.1 is out. Removed FOV setting (For Time), added background settings, added custom buttons (Test).",
+      "ru": "Вышла версия лаунчера 2.1. Удалили настройку FOV (На время), добавили настройки фона, добавили кастомные кнопки (Тест).",
+      "ua": "Вийшла версія лаунчера 2.1. Видалили налаштування FOV (На деякий час), додали налаштування фону, додали кастомні кнопки (Тест)."
     },
     {
-      "date": "2025-04-01",
-      "en": "<a href='https://discord.gg/твоя-ссылка'>Join our Discord!</a>",
-      "ru": "<a href='https://discord.gg/твоя-ссылка'>Присоединяйся к нашему Discord!</a>",
-      "ua": "<a href='https://discord.gg/твоя-ссылка'>Приєднуйся до нашого Discord!</a>"
+      "date": "2025-04-09",
+      "en": "Version 2.0! Added integration with discord, updated installation of mods. The “Mods” and “Settings” tabs are now in the same luncher window.",
+      "ru": "Версия 2.0! Добавлена интеграция з дискордом, обновлена установка модов. Вкладка "Моды" и "Настройки" теперь в одном окне лаунчера.",
+      "ua": "Версія 2.0! Додано інтеграцію з дискордом, оновлено встановлення модів. Вкладка "Моди" та "Налаштування" тепер в одному вікні лаунчера."
+    },
+    {
+      "date": "2025-04-07",
+      "en": "Launcher has been created. Mods, splash, everything you need!",
+      "ru": "Был создан лаунчер. Моды, сплеш, всё что нужно!",
+      "ua": "Був створенний лаунчер. Моды. сплеш, всьо шо треба!"
     }
   ]
 }
