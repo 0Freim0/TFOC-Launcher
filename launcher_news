@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Вышла новая версия лаунчера v2.4!",
+        "date": "2025-04-14",
+        "text": "Теперь лаунчер поддерживает отображение новостей и готовится к автообновлению.",
+        "links": [
+            {"label": "Скачать последнюю версию", "url": "https://github.com/0Freim0/TFOC-Launcher/releases"},
+            {"label": "Перейти на сайт проекта", "url": "https://aiwarehouse.xyz"}
+        ]
+    },
+    {
+        "title": "Новые моды и обновления!",
+        "date": "2025-04-10",
+        "text": "Вышли новые версии модов для карт Array и Convoy. Советуем скачать!",
+        "links": [
+            {"label": "Список модов", "url": "https://github.com/0Freim0/TFOC-Launcher/tree/main/Mods"}
+        ]
+    },
+    {
+        "title": "Наш Discord-сервер",
+        "date": "2025-04-05",
+        "text": "Присоединяйтесь к нашему сообществу для общения, обновлений и поиска тиммейтов!",
+        "links": [
+            {"label": "Войти в Discord", "url": "https://discord.com/invite/KCvX4tQAHv"}
+        ]
+    }
+]
