@@ -2,9 +2,9 @@
   "news": [
     {
       "date": "2025-04-14",
-      "en": "Version 2.2! Added a news block! Also, the Launcher is getting ready for the (Update) feature and the return of FOV customization.",
-      "ru": "Версия 2.2! Добавили блок новостей! Также, лаунчер готовится к функции (Обновление) и возвращению настройки FOV.",
-      "ua": "Версія 2.2! Додали блок новин! Також, лаунчер готується до функції (Оновлення) та повернення налаштування FOV."
+      "en": "Version 2.2! Added a news block! Also, the Launcher is getting ready for the Update feature and the return of FOV customization.",
+      "ru": "Версия 2.2! Добавили блок новостей! Также, лаунчер готовится к функции Обновление и возвращению настройки FOV.",
+      "ua": "Версія 2.2! Додали блок новин! Також, лаунчер готується до функції Оновлення та повернення налаштування FOV."
     },
     {
       "date": "2025-04-11",
@@ -14,9 +14,9 @@
     },
     {
       "date": "2025-04-09",
-      "en": "Version 2.0! Added integration with discord, updated installation of mods. The \“Mods”\ and “Settings” tabs are now in the same luncher window.",
-      "ru": "Версия 2.0! Добавлена интеграция з дискордом, обновлена установка модов. Вкладка \"Моды"\ и "Настройки" теперь в одном окне лаунчера.",
-      "ua": "Версія 2.0! Додано інтеграцію з дискордом, оновлено встановлення модів. Вкладка \"Моди"\ та "Налаштування" тепер в одному вікні лаунчера."
+      "en": "Version 2.0! Added integration with discord, updated installation of mods. The Mods and Settings tabs are now in the same luncher window.",
+      "ru": "Версия 2.0! Добавлена интеграция з дискордом, обновлена установка модов. Вкладка Моды и Настройки теперь в одном окне лаунчера.",
+      "ua": "Версія 2.0! Додано інтеграцію з дискордом, оновлено встановлення модів. Вкладка Моди та Налаштування тепер в одному вікні лаунчера."
     },
     {
       "date": "2025-04-07",
