@@ -1,4 +1,5 @@
 **TFOC Launcher** is a launcher designed to enhance the gaming experience in our favorite game Transformers: Fall of Cybertron.
+I know it doesn't look particularly cool, it's not made in the best way, and a lot of people can do better, but, this project was made purely for fun to see if something like this would work and exist at all, so yeah.
 
 # What's in here?
 1. **Discord RPC:** Now, in discord we can see - Whether the player is in the lobby, whether there is a vote, and on what map he is playing.
