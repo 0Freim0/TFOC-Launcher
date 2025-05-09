@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "date": "2025-05-09",
+      "en": "Version 2.5! Added a field to the settings of the game launch parameters. Now when launching the game the launcher will launch it together with the launch parameters.",
+      "ru": "Версия 2.5! Добавлено поле в настройки параметров запуска игры. Теперь при запуске игры лаунчер запустит ее вместе с параметрами запуска.",
+      "ua": "Версія 2.5! Додано поле в налаштування параметрів запуску гри. Тепер під час запуску гри лаунчер запустить її разом із параметрами запуску."
+    },
+    {
       "date": "2025-05-07",
       "en": "Version 2.4! Fixed a bug in the (Mods) tab. Now Coalesced.ini mods are correctly displayed there.",
       "ru": "Версия 2.4! Исправил баг во вкладке (Моды). Теперь, там корректно отображаются моды Coalesced.ini.",
